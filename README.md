@@ -1,4 +1,4 @@
-# Grupo9_Sistema_Integocios
+# Grupo9
 - Curso: Sistema de Inteligencia de Negocios
 
 Integrantes:
