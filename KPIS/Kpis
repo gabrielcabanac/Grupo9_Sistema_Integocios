@@ -14,8 +14,7 @@
 | **Frecuencia de medición** | Diario                                                                      |
 | **Fuente de datos**        | Base de datos SQL/Redshift                                                   |
 | **Responsable**            | Área Comercial / Finanzas                                                   |
-| **Meta**                   | Crecimiento ≥ 5% mensual                                                    |
-| **Umbrales (semáforo)**    | 🟢 ≥5% &nbsp;&nbsp; 🟡 1–4% &nbsp;&nbsp; 🔴 ≤0%                             |
+
 
 ---
 
@@ -31,8 +30,7 @@
 | **Frecuencia de medición** | Diario                                              |
 | **Fuente de datos**        | POS y Redshift                                      |
 | **Responsable**            | CRM & Analytics                                     |
-| **Meta**                   | ≥ S/. 120                                           |
-| **Umbrales (semáforo)**    | 🟢 ≥ meta &nbsp;&nbsp; 🟡 -10% debajo meta &nbsp;&nbsp; 🔴 < -10% |
+
 
 ---
 
@@ -48,8 +46,6 @@
 | **Frecuencia de medición** | Semanal                                            |
 | **Fuente de datos**        | Finanzas / ERP                                     |
 | **Responsable**            | Control de Gestión                                 |
-| **Meta**                   | ≥ 25%                                              |
-| **Umbrales (semáforo)**    | 🟢 ≥25% &nbsp;&nbsp; 🟡 20–24% &nbsp;&nbsp; 🔴 <20% |
 
 ---
 
@@ -65,8 +61,7 @@
 | **Frecuencia de medición** | Por campaña                                         |
 | **Fuente de datos**        | CRM de cupones                                      |
 | **Responsable**            | Marketing Promocional                               |
-| **Meta**                   | ≥ 15%                                               |
-| **Umbrales (semáforo)**    | 🟢 ≥15% &nbsp;&nbsp; 🟡 10–14% &nbsp;&nbsp; 🔴 <10% |
+
 
 ---
 
@@ -82,8 +77,7 @@
 | **Frecuencia de medición** | Por campaña                                           |
 | **Fuente de datos**        | CRM + Finanzas                                        |
 | **Responsable**            | Marketing / CRM Analytics                             |
-| **Meta**                   | ≥ 20%                                                 |
-| **Umbrales (semáforo)**    | 🟢 ≥20% &nbsp;&nbsp; 🟡 10–19% &nbsp;&nbsp; 🔴 <10%   |
+
 
 ---
 
@@ -99,8 +93,7 @@
 | **Frecuencia de medición** | Mensual                                                            |
 | **Fuente de datos**        | CRM transaccional                                                  |
 | **Responsable**            | CRM & Analytics                                                    |
-| **Meta**                   | ≥ 40%                                                              |
-| **Umbrales (semáforo)**    | 🟢 ≥40% &nbsp;&nbsp; 🟡 25–39% &nbsp;&nbsp; 🔴 <25%                |
+
 
 ---
 
@@ -116,8 +109,7 @@
 | **Frecuencia de medición** | Diario                                             |
 | **Fuente de datos**        | Logs Redshift                                      |
 | **Responsable**            | Área de IT & Analytics                             |
-| **Meta**                   | ≤ 30 segundos                                      |
-| **Umbrales (semáforo)**    | 🟢 ≤30s &nbsp;&nbsp; 🟡 31–60s &nbsp;&nbsp; 🔴 >60s |
+
 
 ---
 
@@ -133,8 +125,7 @@
 | **Frecuencia de medición** | Diario                                                            |
 | **Fuente de datos**        | Sistema de inventarios                                            |
 | **Responsable**            | Logística / Operaciones                                           |
-| **Meta**                   | ≥ 95%                                                             |
-| **Umbrales (semáforo)**    | 🟢 ≥95% &nbsp;&nbsp; 🟡 85–94% &nbsp;&nbsp; 🔴 <85%               |
+
 
 ---
 
@@ -150,8 +141,7 @@
 | **Frecuencia de medición** | Mensual                                                      |
 | **Fuente de datos**        | Redshift / ERP                                               |
 | **Responsable**            | Comercial / Analytics                                        |
-| **Meta**                   | Según plan estratégico (ej. top 5 categorías ≥ 70%)          |
-| **Umbrales (semáforo)**    | 🟢 Dentro plan &nbsp;&nbsp; 🟡 ±10% variación &nbsp;&nbsp; 🔴 >±10% |
+
 
 ---
 
@@ -167,5 +157,4 @@
 | **Frecuencia de medición** | Por campaña                                                  |
 | **Fuente de datos**        | Finanzas + CRM                                               |
 | **Responsable**            | Marketing / Finanzas                                         |
-| **Meta**                   | ≤ S/. 25 por cliente                                         |
-| **Umbrales (semáforo)**    | 🟢 ≤25 &nbsp;&nbsp; 🟡 26–40 &nbsp;&nbsp; 🔴 >40             |
+
